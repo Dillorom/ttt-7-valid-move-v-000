@@ -5,7 +5,10 @@ def valid_move?(board, index)
   elsif board[0] == " " || board[0] == "" || board[0] == nil
     true
   elsif board[0] == "X" || board[0] == "O"
-    nil || false
+     false
+   elsif 
+     nil
+     
   end
 end
 
